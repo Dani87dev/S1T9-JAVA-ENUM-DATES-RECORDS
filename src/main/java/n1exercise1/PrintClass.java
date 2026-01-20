@@ -2,9 +2,9 @@ package n1exercise1;
 
 public class PrintClass {
 
-    public static void printDayType(Day day){
+    public static void printDayType(Day day) {
 
-        switch (day){
+        switch (day) {
             case SATURDAY:
             case SUNDAY:
                 System.out.println("Its a weekend day");
