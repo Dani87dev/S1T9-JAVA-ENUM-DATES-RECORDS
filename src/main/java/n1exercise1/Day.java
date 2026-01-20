@@ -1,11 +1,11 @@
-package n1exercice1;
+package n1exercise1;
 
 public enum Day {
         MONDAY,
         TUESDAY,
-        WEDNSDAY,
+        WEDNESDAY,
         THURSDAY,
         FRIDAY,
         SATURDAY,
-        SUNDAY,
+        SUNDAY
 }
